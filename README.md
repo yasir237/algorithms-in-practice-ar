@@ -6,5 +6,6 @@
 | # | عنوان الحلقة (Episode Title) | الكود (Code) | فيديو الشرح (Video) |
 |---|---|---|---|
 | 01 | مقدمة في الخوارزميات | لا يوجد | [شاهد على YouTube](https://youtube.com/shorts/1DUGnNcFn9o?si=sjHG09WAdKOSOxON) |
-| **02** | **حل معادلة Sum of Powers** | **[عرض الكود](./02_Sum_of_Powers)** | [شاهد على YouTube](https://youtube.com/shorts/yiAXGsrg-e8) |
-| 03 | الحل الذكي (Big O) | [Coming Soon] | [Coming Soon] |
+| 02 | شرح نظري لمعادلة Sum of Powers | لا يوجد | [شاهد على YouTube](https://youtube.com/shorts/IQ2xSstWuHU?si=Hr0fz5pU554SMD8p) |
+| 03 | حل معادلة Sum of Powers | **[عرض الكود](./02_Sum_of_Powers)** | [شاهد على YouTube](https://youtube.com/shorts/yiAXGsrg-e8) |
+| 04 | الحل الذكي (Big O) | [Coming Soon] | [Coming Soon] |
