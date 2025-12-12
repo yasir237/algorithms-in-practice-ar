@@ -8,4 +8,4 @@
 | 01 | مقدمة في الخوارزميات | لا يوجد | [شاهد على YouTube](https://youtube.com/shorts/1DUGnNcFn9o?si=sjHG09WAdKOSOxON) |
 | 02 | شرح نظري لمعادلة Sum of Powers | لا يوجد | [شاهد على YouTube](https://youtube.com/shorts/IQ2xSstWuHU?si=Hr0fz5pU554SMD8p) |
 | 03 | كتابة الكود البطيئ لمعادلة Sum of Powers | **[عرض الكود](./02_Sum_of_Powers)** | [شاهد على YouTube](https://youtube.com/shorts/yiAXGsrg-e8) |
-| 04 | كتابة الكود السريع لمعادلة Sum of Powers | [Coming Soon] | [Coming Soon] |
+| 04 | كتابة الكود السريع لمعادلة Sum of Powers | **[عرض الكود](./03_Sum_of_Powers)** | [شاهد على YouTube](https://youtube.com/shorts/wC3MwmCgvu8) |
